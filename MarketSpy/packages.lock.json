@@ -1,0 +1,61 @@
+{
+    "version": 1,
+    "dependencies": {
+        "net7.0-windows7.0": {
+            "DalamudPackager": {
+                "type": "Direct",
+                "requested": "[2.1.10, )",
+                "resolved": "2.1.10",
+                "contentHash": "S6NrvvOnLgT4GDdgwuKVJjbFo+8ZEj+JsEYk9ojjOR/MMfv1dIFpT8aRJQfI24rtDcw1uF+GnSSMN4WW1yt7fw=="
+            },
+            "sqlite-net-pcl": {
+                "type": "Direct",
+                "requested": "[1.8.116, )",
+                "resolved": "1.8.116",
+                "contentHash": "W0NuwAOVVAR9LP4eZwNBIrim1p3EN7t8iNfSHXEhtzKAd4YyItekoQ8NyWYs4faVSrN2KZr/P5u4hycCjKKexg==",
+                "dependencies": {
+                    "SQLitePCLRaw.bundle_green": "2.0.4"
+                }
+            },
+            "SQLitePCLRaw.bundle_green": {
+                "type": "Transitive",
+                "resolved": "2.0.4",
+                "contentHash": "ubFgOHDmtTcq2LU7Ss10yHnFVMm2rFVr65Ggi+Mh514KjGx4pal98P2zSvZtWf3wbtJw6G1InBgeozBtnpEfKQ==",
+                "dependencies": {
+                    "SQLitePCLRaw.core": "2.0.4",
+                    "SQLitePCLRaw.lib.e_sqlite3": "2.0.4",
+                    "SQLitePCLRaw.provider.dynamic_cdecl": "2.0.4"
+                }
+            },
+            "SQLitePCLRaw.core": {
+                "type": "Transitive",
+                "resolved": "2.0.4",
+                "contentHash": "4XlDZpDAsboMD6qZQcz9AaKblKDUTVHF+8f3lvbP7QjoqSRr2Xc0Lm34IK2pjRIYnyFLhI3yOJ5YWfOiCid2yg==",
+                "dependencies": {
+                    "System.Memory": "4.5.3"
+                }
+            },
+            "SQLitePCLRaw.lib.e_sqlite3": {
+                "type": "Transitive",
+                "resolved": "2.0.4",
+                "contentHash": "oetvmtDZOE4Nnrtxd8Trapl9geBiu0rDCUXff46qGYjnUwzaU1mZ3OHnfR402tl32rx8gBWg3n5OBRaPJRbsGw=="
+            },
+            "SQLitePCLRaw.provider.dynamic_cdecl": {
+                "type": "Transitive",
+                "resolved": "2.0.4",
+                "contentHash": "AY6+vv/4ji1mCkLrS6HP/88rHT9YFKRyg3LUj8RyIk6imJMUFdQDiP8rK8gq0a/0FbqspLjK1t7rtKcr7FXRYA==",
+                "dependencies": {
+                    "SQLitePCLRaw.core": "2.0.4"
+                }
+            },
+            "System.Memory": {
+                "type": "Transitive",
+                "resolved": "4.5.3",
+                "contentHash": "3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA=="
+            },
+            "ottergui": {
+                "type": "Project"
+            }
+        }
+    }
+}
