@@ -18,7 +18,7 @@
             "gil",
             "tracking"
 		],
-		"IconUrl": "https://raw.githubusercontent.com/Liquidize/MarketSpy/main/icon.png",
+		"IconUrl": "https://github.com/Liquidize/MarketSpy/raw/main/icon.pn",
 		"DownloadLinkInstall": "https://github.com/Liquidize/MarketSpy/releases/download/v0.0.0.1/latest.zip",
 		"DownloadLinkTesting": "https://github.com/Liquidize/MarketSpy/releases/download/v0.0.0.1/latest.zip",
 		"DownloadLinkUpdate": "https://github.com/Liquidize/MarketSpy/releases/download/v0.0.0.1/latest.zip"
