@@ -1,0 +1,26 @@
+[
+	{
+		"Author": "Kaliya",
+		"Name": "Market Spy",
+        "Punchline": "Track your wealth changes, and marketboard usage overtime!",
+        "Description": "A plugin that tracks various aspects about your gil spending and earning via various different means. Displays the data in graphs and such.",
+        "InternalName": "MarketSpy",
+        "AssemblyVersion": "0.0.0.1",
+		"TestingAssemblyVersion": "0.0.0.1",
+		"RepoUrl": "https://github.com/Liquidize/MarketSpy",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 8,
+		"Tags": [
+            "marketboard",
+            "market",
+            "spy",
+            "wealth",
+            "gil",
+            "tracking"
+		],
+		"IconUrl": "https://github.com/Liquidize/MarketSpy/raw/main/icon.png",
+		"DownloadLinkInstall": "https://github.com/Liquidize/MarketSpy/releases/download/v0.0.0.1/latest.zip",
+		"DownloadLinkTesting": "https://github.com/Liquidize/MarketSpy/releases/download/v0.0.0.1/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/Liquidize/MarketSpy/releases/download/v0.0.0.1/latest.zip"
+	}
+]

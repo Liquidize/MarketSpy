@@ -3,7 +3,7 @@
     "Name": "Market Spy",
     "Punchline": "Track your wealth changes, and marketboard usage overtime!",
     "Description": "A plugin that tracks various aspects about your gil spending and earning via various different means. Displays the data in graphs and such.",
-    "InternalName": "marketSpy",
+    "InternalName": "MarketSpy",
     "ApplicableVersion": "any",
     "Tags": [
         "marketboard",
